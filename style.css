@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-image: url('../img/man.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: honeydew;
+
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    background-color: goldenrod;
+    color: white;
+    width: 150px;
+}
